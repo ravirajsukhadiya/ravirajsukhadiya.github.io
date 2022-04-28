@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-### E-mail id: singh_shruti@iitgn.ac.in | shrutis1051@gmail.com
+### E-mail id: raviraj.s@iitgn.ac.in
