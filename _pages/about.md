@@ -14,7 +14,7 @@ I completed my Bachelors in Computer Engineering from Gujarat Technological Univ
 
 
 ## News
-**April 2022:** Excited to Nvidia Special Talk 
+**April 2022:** Excited to attend Nvidia 2023 Special Talk 
 
 **March 2022:** Excited to attend [Nvidia GTC Conference](https://www.nvidia.com/gtc/)  
   
