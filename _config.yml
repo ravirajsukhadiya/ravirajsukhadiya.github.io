@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
+title                    : "Raviraj Sukhadiya"
+title_separator          : "|"
 name                     : &name "Raviraj Sukhadiya"
 description              : &description "personal description"
 url                      : https://ravirajsukhadiya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Gandhinagar, India"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "raviraj.s@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : "https://www.linkedin.com/in/sukhadiya-raviraj-9b092034/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/raviandroid"
   vine             :
   weibo            :
   xing             :
