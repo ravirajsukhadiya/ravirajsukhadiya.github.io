@@ -2,8 +2,8 @@
 main:
   - title: "Teaching"
     url: /Teaching/
-  # - title: "Experience"
-  #   url: /experience/
+  - title: "Portfolio"
+    url: /portfolio/
 
   # - title: "Academic Projects"
   #   url: /aprojects/    

@@ -10,7 +10,7 @@ redirect_from:
 
 I am working in Computer Science & Engineering Lab at [IIT Gandhinagar](https://www.iitgn.ac.in/), where I am reported by [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta). My  interests lie in Website and Application Development. Specifically, I am interested in Android Application Development.  
 
-I completed my Bachelors in Computer Engineering from Gujarat Technological University [GTU](https://www.gtu.ac.in/).
+Previously, I worked in C U Shah Government Polytechnic College as Lecturer(Computer Enginnering) for 5years. I completed my Bachelors in Computer Engineering from Gujarat Technological University [GTU](https://www.gtu.ac.in/).
 
 
 ## News
