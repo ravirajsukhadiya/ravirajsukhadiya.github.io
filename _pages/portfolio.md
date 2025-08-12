@@ -15,7 +15,6 @@ author_profile: true
 **CSE PhD Admission Portal:** [Computer Science & Engineering IITGN ](https://cs.iitgn.ac.in/)
 
 
-
 ## <ins>IT Administration</ins>
 **Server Administration:** Administrating High-ended CSE and Project Servers, Hosting website on server and maintain it. Setup [Sinularity HPC Cluster](https://cs.iitgn.ac.in/hpc/) in CSE Department on Feb 2025
 
@@ -24,13 +23,6 @@ author_profile: true
 **CCTV Administration:** Administrating and Monitoring CCTV. 
 
 
-
-<! ---
-## <ins>Android Application Development</ins>
-**Quizunt:** [Quizunt Android App](https://play.google.com/store/apps/details?id=oak.tech.quizunt)
-
-**Programming Tube:** [Programming Tube Android App](https://play.google.com/store/apps/details?id=com.programmingtube)
---->
 ## <ins>Managed Youtube Channel</ins>
 **CSE IITGN:** [Computer Sci. & Engg. IITGN](https://www.youtube.com/channel/UCPYUnvUV3CiMmkhfYME48QQ)
 
