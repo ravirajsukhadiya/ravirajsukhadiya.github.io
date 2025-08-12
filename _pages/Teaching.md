@@ -11,6 +11,10 @@ author_profile: true
 
 **June 2024:** Basic Computer Skill Course  at [NEEV IITGN](https://neev.iitgn.ac.in/)
 
+**July 2023:** Website Development Course  at [NEEV IITGN](https://neev.iitgn.ac.in/)
+
+**April 2023:** Basic Computer Skill Course  at [NEEV IITGN](https://neev.iitgn.ac.in/)
+
 ## <ins>Expert Talk</ins>
 **April 5, 2024:** Delivered Talk as speaker/instructor in one day Workshop on Python programming and AI applications [CSE Workshop 2024](https://cs.iitgn.ac.in/pythonworkshop.html)
 
