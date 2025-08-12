@@ -19,11 +19,11 @@ author_profile: true
 ## <ins>Server Administration</ins>
 **GPU Servers:** Administrating High-ended CSE and Project Servers, Hosting website on server and maintain it. 
 
-## <ins>Android Application Development</ins>
+<-- ## <ins>Android Application Development</ins>
 **Quizunt:** [Quizunt Android App](https://play.google.com/store/apps/details?id=oak.tech.quizunt)
 
 **Programming Tube:** [Programming Tube Android App](https://play.google.com/store/apps/details?id=com.programmingtube)
-
+-->
 ## <ins>Manage Youtube Channel</ins>
 **CSE IITGN:** [Computer Sci. & Engg. IITGN](https://www.youtube.com/channel/UCPYUnvUV3CiMmkhfYME48QQ)
 
