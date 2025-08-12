@@ -16,7 +16,7 @@ Previously, I worked in [C U Shah Government Polytechnic College Surendranagar](
 
 **Jun 02 – 13, 2025:** Organized/Attend ACM Summer (School AI for Social Good) in CSE Department [2025](https://sustainability-lab.github.io/acm-summer-2025/)
 
-**December 21 – 23, 2024:** Attend IndoML [2021](https://indoml.in/2024/)
+**December 21 – 23, 2024:** Attend IndoML [2024](https://indoml.in/2024/)
 
 **May 27 – 30, 2024:** Attend HPC Workshop at IUAC, New Delhi [2024](https://hpcschool.iuacevents.in/)
 
