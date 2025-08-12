@@ -5,7 +5,7 @@ permalink: /Teaching/
 author_profile: true
 ---
 ## <ins>Course Trainer</ins>
-**April 2024:** Basic Computer Skill Course in  [NEEV](https://neev.iitgn.ac.in/)
+**April 2025:** Basic Computer Skill Course in  [NEEV](https://neev.iitgn.ac.in/)
 
 **Jan 2025:** Basic Computer Skill Course  [NEEV](https://neev.iitgn.ac.in/)
 
